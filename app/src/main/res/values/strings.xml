@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">DogEducationApp</string>
+
+    <string name="next">Next</string>
+    <string name="second_activity_description">This is the second activity started from the first one</string>
 </resources>
